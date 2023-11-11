@@ -15,6 +15,6 @@ To compile this project on Windows you need to have .NET 7.0 installed
 
 Build command:
 ```
-  dotnet publish -c Release
+dotnet publish -c Release
 ```
 
